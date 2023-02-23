@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 """
- A python script that uses REST API to retrieve an
- information of TODO list for a given employee id. 
-"""
+A python script that uses REST API to retrieve an
+information of TODO list for a given employee id."""
 
 
 import requests
