@@ -1,6 +1,8 @@
 #!/usr/bin/python3
+
 """
-From task #0, extending the Python script to export data in the JSON format.
+Using what you did in the task #0, extend your Python 
+script to export data in the JSON format.
 """
 
 import csv
